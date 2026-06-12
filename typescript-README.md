@@ -1,6 +1,6 @@
-# TypeScript Project Name
+## Project title
 
-> One-line description of what this TypeScript service does.
+my-typescript-service — A production-ready Node.js service built with TypeScript, with static typing from API to database.
 
 ## Motivation
 
@@ -62,7 +62,7 @@ module.exports = {
 - **Source maps** — emitted for production debugging
 - **Graceful shutdown** — `SIGTERM` / `SIGINT` handlers with `http-server.close()`
 
-## Code example
+## Code Example
 
 ```typescript
 import { Hono } from 'hono';

@@ -1,8 +1,6 @@
-# Swift Project Name
+## Project title
 
-> A production-quality Swift library/app built with modern Swift, SwiftUI, and the Swift Package Manager.
-
----
+MySwiftKit — A production-quality Swift library/app built with modern Swift, SwiftUI, and the Swift Package Manager.
 
 ## Motivation
 

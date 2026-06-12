@@ -1,8 +1,6 @@
-# Vue Project Name
+## Project title
 
-> A high-performance Vue 3 application scaffolded with Vite, written in TypeScript, powered by Pinia and Vue Router.
-
----
+MyVueApp — A high-performance Vue 3 application scaffolded with Vite, written in TypeScript, powered by Pinia and Vue Router.
 
 ## Motivation
 

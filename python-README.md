@@ -1,8 +1,6 @@
-# Python Project Name
+## Project title
 
-> A production-quality Python package built with modern tooling: pip, venv, pytest, and pyproject.toml.
-
----
+mypackage — A production-quality Python package built with modern tooling: pip, venv, pytest, and pyproject.toml.
 
 ## Motivation
 
